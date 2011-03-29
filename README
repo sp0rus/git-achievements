@@ -34,9 +34,9 @@ Install
 -------
 Add git-achievements to your path and alias git to git-achievements
 
-For example add the following to the end of your ~/.bash_profile
+For example add the following to the end of your ~/.bash_profile (or ~/.bashrc)
 
-export PATH="$PATH:~/git/git-achievements"
+export PATH="$PATH":~/git/git-achievements
 alias git="git-achievements"
 
 You can get your first achievement by running
